@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'hippo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90A4E1764F0846F0B591E924C7C125C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC4B9192E39E4E20B8678003FAB2CDB9 }}
           package: .
